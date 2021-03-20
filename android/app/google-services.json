@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26501981343",
+    "firebase_url": "https://tracer-947fb.firebaseio.com",
+    "project_id": "tracer-947fb",
+    "storage_bucket": "tracer-947fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26501981343:android:e2afe2273d0541487aeeaa",
+        "android_client_info": {
+          "package_name": "com.example.contacttracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26501981343-0prlnmq89oh30opaqll5asc483k7gjs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzkhPLF_T34oB59YiVDK_Ygh5PPolclmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26501981343-0prlnmq89oh30opaqll5asc483k7gjs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
